@@ -134,12 +134,3 @@ production integration points (spam protection, persistence, email, CRM,
 analytics) are marked with a comment block — wire them up with the env vars in
 `.env.example`.
 
-## Notes on the recreation
-
-This site reproduces the *structure, interaction sophistication, and editorial
-pacing* of a high-end agency site. It uses Khanstruct's own name, copy,
-services, projects, and placeholder media — it is not a clone of any specific
-company's proprietary content, and implies no affiliation with any third party.
-Replace placeholder media blocks and demo statistics with real, authorized
-assets before launch, and have the legal pages reviewed by counsel.
-```
