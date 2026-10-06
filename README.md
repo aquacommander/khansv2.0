@@ -94,8 +94,6 @@ real engagement**.
 - **Analytics** — emits `funnel_open`, `funnel_step`, `funnel_submit` via
   [`src/lib/analytics.ts`](src/lib/analytics.ts) (a silent no-op until GA4 is wired).
 
-`/contact` remains for people who just want the plain form.
-
 ## Hero video
 
 The homepage hero plays a muted, looping background video of a team collaborating
