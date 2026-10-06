@@ -126,11 +126,3 @@ security). To change any picture, drop a new file at the same
 `public/media/<section>/<slug>.jpg` path — no code change. Every image carries
 descriptive `alt` text, and `AbstractMedia` also accepts video via a real `src`
 swap if you extend it.
-
-## Contact backend
-
-`src/app/api/contact/route.ts` validates server-side and returns 200/422. The
-production integration points (spam protection, persistence, email, CRM,
-analytics) are marked with a comment block — wire them up with the env vars in
-`.env.example`.
-
