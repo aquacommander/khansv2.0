@@ -1,4 +1,3 @@
-# Khanstruct — v2
 
 A clean-room, architecturally-equivalent agency website in the editorial /
 engineering-console style: a multi-layered studio platform with a service
